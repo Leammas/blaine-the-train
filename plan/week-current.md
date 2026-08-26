@@ -4,7 +4,7 @@ dates: {start: 2026-08-24, end: 2026-08-30}
 meso_week: "1 of 3 (build)"
 planned_hours: 7.3  # core; + optional mobility ~1.5 h -> ~8.8 h total
 run_km: 40  # core 24 + optional mobility 16
-descent_m: 720
+descent_m: 570  # was 720; FG descent cut 400 -> 250 (ITB 08-26)
 long_run_day: fri
 updated: 2026-08-26
 ---
@@ -57,18 +57,31 @@ hottest day (36.6°C max) — long run starts pre-dawn.
 - Calories: ~3100 kcal — carb emphasis (long run tomorrow)
 - Stretching: A
 
-## Friday — 2026-08-28 (LONG RUN)
-- **Fruška Gora trail long run.** Ride out ~10 km / ~350 m up (~40 min, easy
-  gear, counts as warm-up). Trail run ~14 km / ~2:00–2:10 on forest trails
-  (time-on-feet is the training variable at the athlete's real trail pace of
-  ~8:00–8:10/km; meso prescribes 2:00–2:10 for week 1; ~400 m descent this
-  loop), HR ≤140, walk the steepest ups, run the descents EASY (ITB watch —
-  stop descending hard at the first sign of lateral knee tightness). Easy
-  ride back (~30 min). Total ~3:20. Hottest day of the week (36.6°C max,
-  morning ~23°C) — start the ride 05:00–05:30, carry 1.5 L + electrolytes,
-  finish before 09:00.
-- Heat alternative: run-hike the same loop (same time on feet, lower
-  intensity).
+## Friday — 2026-08-28 (LONG RUN) — DESCENT DOWNGRADED (ITB 08-26)
+- **Fruška Gora trail long run, descent taken out.** Ride out ~10 km /
+  ~350 m up (~40 min, easy gear, counts as warm-up). Trail ~14 km /
+  **2:00–2:10 unchanged** — time on feet is the training variable and it
+  stays. What changes: **hike every descent** (do not run them), pick the
+  flatter/ridge option over the steep drop, target **~250 m descent instead
+  of ~400 m**. Climbs stay as planned (walk the steepest). HR ≤140.
+- Descent cues, in force: cadence +~5 %, shorter and slightly wider steps,
+  and stop-and-walk at the first lateral tightness — non-negotiable this week.
+- Reason: light lateral tenderness on Wednesday's easy run (severity 1, gone
+  past 10 min) → coach-rules 7-day ITB rule: downgrade the next downhill/long
+  session, no descent progression this week, hold strength stage 0. The
+  numeric ceiling was not the constraint (last week's actual descent
+  ~1,400 m); the symptom is.
+- Tripwire → bail to plan B: if tenderness shows up on Thursday's ride, or
+  lasts beyond ~10 min, or is felt at rest, drop the trail entirely and do
+  2:00 flat riverbank run-hike instead. Log it either way.
+- Hottest day of the week (36.6°C max, morning ~23°C) — start the ride
+  05:00–05:30, finish before 09:00.
+- Fueling (~3:20 session): carry **2 L** minimum (FG morning — no refill on
+  route; the spring at the road crossing is the only named option, do not
+  count on it) + electrolyte tabs in one bottle. One item per 30 min from
+  the ride-out onward: 2 Alesto fruit bars, 2 Balans cereal bars, 2 SiS gels
+  (~6 items, ~150 g carbs over the block). Water sips with every fruit/cereal
+  bar; the gel needs none.
 - Calories: ~3900 kcal (session ≈1000 trail + 700 rides) — carb emphasis
 - Stretching: A (post-run, before the ride home stiffens you)
 
