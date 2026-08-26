@@ -36,20 +36,17 @@ hottest day (36.6°C max) — long run starts pre-dawn.
 - Stretching: A
 
 ## Wednesday — 2026-08-26
-- ADJUSTED at 12:35 check-in. Re-forecast: today is NOT the cool day
-  (max 32.5°C, not 28.5°C); the morning window (22°C, 04–07h) has passed.
-  Recovery 65% ("light training") after yesterday's stair repeats, with the
-  quality ride Thu and the long run Fri.
-- **Mobility run: DROPPED today** (it was optional; no cool slot left, and
-  the two hard days ahead get the recovery instead). If legs feel good and
-  you want it anyway: 5–6 km riverbank at 20:30+ (30°C), HR ≤130, purely by
-  feel, walk breaks fine — never a "make up the km" run.
-- **Strength A** (stage 0, 15–16 reps/set), ~40 min, at home, evening — keep
-  as planned, stage 0 holds (no progression this week). Fan on; it is ~30°C
+- **DONE 06:34** — easy mobility run executed as planned: 8.30 km / 48:22,
+  avg pace 5:49/km, avg HR 121, ~483 kcal. Comfortably under the ≤135 cap
+  (5:49/km at HR 121 is a good aerobic signal); got out before the heat.
+- **Strength A** (stage 0, 15–16 reps/set), ~40 min, at home, evening — as
+  planned, stage 0 holds (no progression this week). Fan on; it is ~30°C
   indoors after 20:00. 25–40 g protein within the hour after.
-- Calories: ~2400 kcal (~2900 if the evening run happens)
-- Stretching: A. Desk-heavy day → add the Variant B sitting bits and take
-  movement breaks (known ITB trigger).
+- Calories: ~2900 kcal
+- Stretching: A (post-run). Desk-heavy day → add the Variant B sitting bits
+  and take movement breaks (known ITB trigger).
+- Note: today re-forecast to 32.5°C max (plan assumed 28.5°C) — irrelevant
+  to the executed morning run, but Wednesday was not the cool day.
 - Heads-up for tomorrow: Thursday re-forecast to 35.7°C max (was 31°C) —
   the social ride wants 2 full bottles + electrolytes and the earliest start
   the group will accept.
