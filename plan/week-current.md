@@ -6,7 +6,7 @@ planned_hours: 7.3  # core; + optional mobility ~1.5 h -> ~8.8 h total
 run_km: 40  # core 24 + optional mobility 16
 descent_m: 720
 long_run_day: fri
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 # Week 2026-W35 — Divca sharpening, build week 1
 
@@ -36,11 +36,23 @@ hottest day (36.6°C max) — long run starts pre-dawn.
 - Stretching: A
 
 ## Wednesday — 2026-08-26
-- **Easy run 8 km** (mobility, OPTIONAL — skip freely; allowed to overshoot
-  the 9 h cap), riverbank, 45 min, HR ≤135, morning (coolest day, max 28.5°C).
-- **Strength A** (stage 0, 15–16 reps/set), ~40 min, at home, evening.
-- Calories: ~2900 kcal (~2400 if the mobility run is skipped)
-- Stretching: A (post-run)
+- ADJUSTED at 12:35 check-in. Re-forecast: today is NOT the cool day
+  (max 32.5°C, not 28.5°C); the morning window (22°C, 04–07h) has passed.
+  Recovery 65% ("light training") after yesterday's stair repeats, with the
+  quality ride Thu and the long run Fri.
+- **Mobility run: DROPPED today** (it was optional; no cool slot left, and
+  the two hard days ahead get the recovery instead). If legs feel good and
+  you want it anyway: 5–6 km riverbank at 20:30+ (30°C), HR ≤130, purely by
+  feel, walk breaks fine — never a "make up the km" run.
+- **Strength A** (stage 0, 15–16 reps/set), ~40 min, at home, evening — keep
+  as planned, stage 0 holds (no progression this week). Fan on; it is ~30°C
+  indoors after 20:00. 25–40 g protein within the hour after.
+- Calories: ~2400 kcal (~2900 if the evening run happens)
+- Stretching: A. Desk-heavy day → add the Variant B sitting bits and take
+  movement breaks (known ITB trigger).
+- Heads-up for tomorrow: Thursday re-forecast to 35.7°C max (was 31°C) —
+  the social ride wants 2 full bottles + electrolytes and the earliest start
+  the group will accept.
 
 ## Thursday — 2026-08-27
 - **Social ride** (fixed): ~15 km flat + 100 m & 400 m climb @ ~10% + ~20 km
