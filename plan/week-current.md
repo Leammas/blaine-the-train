@@ -6,7 +6,7 @@ planned_hours: 7.3  # core; + optional mobility ~1.5 h -> ~8.8 h total
 run_km: 40  # core 24 + optional mobility 16
 descent_m: 889  # ACTUAL: stairs 320 + FG 569; target was 570, ceiling 820 — both breached
 long_run_day: fri
-updated: 2026-08-28
+updated: 2026-08-28  # ITB 3/10 reported evening of 08-28
 ---
 # Week 2026-W35 — Divca sharpening, build week 1
 
@@ -79,19 +79,26 @@ hottest day (36.6°C max) — long run starts pre-dawn.
 - Stretching: A, and do it properly — post-descent is exactly when it earns
   its keep. Add the Variant B sitting bits if the afternoon is desk-bound.
 - Protein: 25–40 g in the hour after finishing.
+- **ITB outcome (reported this evening): 0/10 around Thursday's bike →
+  0.5/10 during the run → 3/10 at rest afterwards.** Highest severity
+  logged to date, and above the sitting-only baseline of 2. Delayed
+  presentation is textbook for eccentric load; the 569 m descent is the
+  cause. Logged to log/itb.md. Saturday's run is cancelled as a result.
 
-## Saturday — 2026-08-29 — MOBILITY RUN NOW CONDITIONAL
-- **Easy run 8 km — DEFAULT IS SKIP.** It was optional before; after a
-  569 m descent on a symptomatic ITB it only happens if the left knee is
-  completely silent through Friday evening and Saturday morning — no
-  tenderness on stairs, none sitting, none on the first 10 min. Any signal
-  at all → skip and log, no negotiation. If it goes ahead: riverbank flat,
-  45 min, HR ≤130, bail at the first lateral tightness.
-- Hot again (36.2°C max, morning min 23.4°C) — if run, out by 06:30.
-- **Strength B** (stage 0, 12 reps/set), ~40 min, at home, later in the day.
-  Stage 0 holds. 25–40 g protein within the hour.
-- Calories: ~2900 kcal if the run happens, ~2400 if skipped
-- Stretching: A
+## Saturday — 2026-08-29 — RUN CANCELLED (ITB 3/10)
+- **No run.** Cancelled outright, not conditional — 3/10 at rest the evening
+  after a 569 m descent takes the decision out of your hands. Walking and
+  easy movement are fine and preferable to sitting.
+- **Strength B** (stage 0, 12 reps/set), ~40 min, at home — this stays.
+  Stage 0 holds. The ITB-focused hip abductor and glute work is the
+  treatment here, not the problem. Drop any single movement that provokes
+  the lateral knee; keep the rest. 25–40 g protein within the hour.
+- **Morning ITB check-in — this is the real reading.** First thing, before
+  you walk it off: rate it cold, plus stairs down and sitting-to-standing.
+  Report it and I will make the call on whether W36 becomes a rehab-mode
+  week (run volume −30 %, zero descent work).
+- Stretching: B, plus movement breaks — do not spend tomorrow sitting.
+- Calories: ~2400 kcal
 
 ## Sunday — 2026-08-30
 - **Rest.** Full recovery before build week 2.
@@ -99,12 +106,18 @@ hottest day (36.6°C max) — long run starts pre-dawn.
 - Stretching: B (long-sitting day)
 
 ---
-**Week totals (actual through Fri):** core ~6.9 h · run ~32 km · **descent
-~889 m** (stairs 320 + FG 569).
-**Invariants re-checked 2026-08-28:** hours ✓ · run km ✓ · hard days
+**Week totals (actual):** core ~6.9 h · run ~32 km · **descent ~889 m**
+(stairs 320 + FG 569).
+**Invariants re-checked 2026-08-28 evening:** hours ✓ · run km ✓ · hard days
 Tue/Fri non-adjacent ✓ · strength 2× ✓ · long run Fri ✓ ·
 **descent 889 > 820 ceiling ✗ — breached in execution, not in planning.**
-The Friday route taken was steeper than the downgraded plan. Cannot be
-undone; it is absorbed by removing all remaining descent this week
-(Saturday is flat-or-skipped) and by hard-capping W36 descent at or below
-last week's actual with no progression, per the ITB rule.
+
+**Carried into W36 planning as binding constraints:**
+1. ITB severity 3 at rest on 2026-08-28 — highest logged. No descent
+   progression; W36 descent capped at or below last week's actual.
+2. Strength holds stage 0. No plyometrics.
+3. If the 08-29 morning reading is still ≥2 cold, or if any pain appears on
+   an easy flat run, escalate the meso to rehab mode per coach-rules:
+   run volume −30 %, no descent work, flag prominently. Divca (2026-09-28)
+   is 31 days out — there is room to lose a week here and none to lose a
+   month.
