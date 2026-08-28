@@ -4,9 +4,9 @@ dates: {start: 2026-08-24, end: 2026-08-30}
 meso_week: "1 of 3 (build)"
 planned_hours: 7.3  # core; + optional mobility ~1.5 h -> ~8.8 h total
 run_km: 40  # core 24 + optional mobility 16
-descent_m: 570  # was 720; FG descent cut 400 -> 250 (ITB 08-26)
+descent_m: 889  # ACTUAL: stairs 320 + FG 569; target was 570, ceiling 820 — both breached
 long_run_day: fri
-updated: 2026-08-26
+updated: 2026-08-28
 ---
 # Week 2026-W35 — Divca sharpening, build week 1
 
@@ -57,41 +57,41 @@ hottest day (36.6°C max) — long run starts pre-dawn.
 - Calories: ~3100 kcal — carb emphasis (long run tomorrow)
 - Stretching: A
 
-## Friday — 2026-08-28 (LONG RUN) — DESCENT DOWNGRADED (ITB 08-26)
-- **Fruška Gora trail long run, descent taken out.** Ride out ~10 km /
-  ~350 m up (~40 min, easy gear, counts as warm-up). Trail ~14 km /
-  **2:00–2:10 unchanged** — time on feet is the training variable and it
-  stays. What changes: **hike every descent** (do not run them), pick the
-  flatter/ridge option over the steep drop, target **~250 m descent instead
-  of ~400 m**. Climbs stay as planned (walk the steepest). HR ≤140.
-- Descent cues, in force: cadence +~5 %, shorter and slightly wider steps,
-  and stop-and-walk at the first lateral tightness — non-negotiable this week.
-- Reason: light lateral tenderness on Wednesday's easy run (severity 1, gone
-  past 10 min) → coach-rules 7-day ITB rule: downgrade the next downhill/long
-  session, no descent progression this week, hold strength stage 0. The
-  numeric ceiling was not the constraint (last week's actual descent
-  ~1,400 m); the symptom is.
-- Tripwire → bail to plan B: if tenderness shows up on Thursday's ride, or
-  lasts beyond ~10 min, or is felt at rest, drop the trail entirely and do
-  2:00 flat riverbank run-hike instead. Log it either way.
-- Hottest day of the week (36.6°C max, morning ~23°C) — start the ride
-  05:00–05:30, finish before 09:00.
-- Fueling (~3:20 session): carry **2 L** minimum (FG morning — no refill on
-  route; the spring at the road crossing is the only named option, do not
-  count on it) + electrolyte tabs in one bottle. One item per 30 min from
-  the ride-out onward: 2 Alesto fruit bars, 2 Balans cereal bars, 2 SiS gels
-  (~6 items, ~150 g carbs over the block). Water sips with every fruit/cereal
-  bar; the gel needs none.
-- Calories: ~3900 kcal (session ≈1000 trail + 700 rides) — carb emphasis
-- Stretching: A (post-run, before the ride home stiffens you)
+## Friday — 2026-08-28 (LONG RUN) — DONE, DESCENT OVERSHOT
+- **DONE.** Ride out 05:35, 9.88 km / 38:32, avg HR 99, 192 kcal. Trail
+  06:16–07:54: **12.05 km / 1:38:40, 557↑ / 569↓ m**, avg HR 126, cadence
+  146 spm, adjusted pace 6:12/km, 743 kcal, load 87, aerobic TE 2.6.
+  Started in 22°C, finished at 22.9°C — the pre-dawn start worked.
+- **Variance vs plan:** time on feet 1:39 instead of 2:00–2:10 (short by
+  ~25 min) and distance 12.05 vs 14 km — fine, the shortfall is the cheap
+  part. The expensive part: **descent 569 m against a downgraded target of
+  ~250 m** — the route taken was materially steeper than the flatter/ridge
+  option the downgrade called for. HR 126 says it was run aerobically, not
+  hard, but the eccentric load on a left ITB that signalled two days ago is
+  the whole point of the cap, and it was doubled.
+- Week descent now ~889 m actual (stairs 320 + FG 569) against the revised
+  570 m plan and the invariant-3 ceiling of 820 m. Both breached. Carried
+  into the weekly review as the headline flag for W36 — no descent
+  progression next week regardless of how the knee feels.
+- Remaining today: ride home (~10 km easy, ~190 kcal) if not already done.
+  Nothing else. Do not add anything.
+- Calories: ~3400 kcal (BMR×1.4 ≈ 2240 + session ≈ 1125) — carb emphasis
+- Stretching: A, and do it properly — post-descent is exactly when it earns
+  its keep. Add the Variant B sitting bits if the afternoon is desk-bound.
+- Protein: 25–40 g in the hour after finishing.
 
-## Saturday — 2026-08-29
-- **Easy run 8 km** (mobility, OPTIONAL — skip freely; allowed to overshoot
-  the 9 h cap), riverbank, 45 min, fully by feel, HR ≤130 — shakeout after
-  the long run; skip and log if the left knee says anything.
+## Saturday — 2026-08-29 — MOBILITY RUN NOW CONDITIONAL
+- **Easy run 8 km — DEFAULT IS SKIP.** It was optional before; after a
+  569 m descent on a symptomatic ITB it only happens if the left knee is
+  completely silent through Friday evening and Saturday morning — no
+  tenderness on stairs, none sitting, none on the first 10 min. Any signal
+  at all → skip and log, no negotiation. If it goes ahead: riverbank flat,
+  45 min, HR ≤130, bail at the first lateral tightness.
+- Hot again (36.2°C max, morning min 23.4°C) — if run, out by 06:30.
 - **Strength B** (stage 0, 12 reps/set), ~40 min, at home, later in the day.
-- Calories: ~2900 kcal (~2400 if the mobility run is skipped)
-- Stretching: A (post-run)
+  Stage 0 holds. 25–40 g protein within the hour.
+- Calories: ~2900 kcal if the run happens, ~2400 if skipped
+- Stretching: A
 
 ## Sunday — 2026-08-30
 - **Rest.** Full recovery before build week 2.
@@ -99,13 +99,12 @@ hottest day (36.6°C max) — long run starts pre-dawn.
 - Stretching: B (long-sitting day)
 
 ---
-**Week totals:** core ~7.3 h (Tue 1.0 + Wed 0.67 + Thu 1.75 + Fri 3.3 +
-Sat 0.67) + optional mobility ~1.5 h (Wed 0.75 + Sat 0.75) → ~8.8 h total ·
-run ~40 km (core 24 + optional mobility 16; last week actual: 55.9 km —
-deliberate cut for race-specific vert) · descent ~720 m (stairs ~320 m + FG
-trail ~400 m).
-**Invariants checked:** hours (core) 7.3 ≤ 9 ✓ (+ optional mobility ~1.5 h
-outside the cap, per 2026-08-22 ruling) · run km 40 ≤ 61.5 (1.10 × 55.9) ✓ ·
-hard days Tue/Fri non-adjacent ✓ · strength 2× ✓ · long run Fri (valid slot) ✓
-· descent 720 ≤ 820 (1.10 × 3-wk avg 745) ✓ · no ITB symptoms in last 7
-days ✓.
+**Week totals (actual through Fri):** core ~6.9 h · run ~32 km · **descent
+~889 m** (stairs 320 + FG 569).
+**Invariants re-checked 2026-08-28:** hours ✓ · run km ✓ · hard days
+Tue/Fri non-adjacent ✓ · strength 2× ✓ · long run Fri ✓ ·
+**descent 889 > 820 ceiling ✗ — breached in execution, not in planning.**
+The Friday route taken was steeper than the downgraded plan. Cannot be
+undone; it is absorbed by removing all remaining descent this week
+(Saturday is flat-or-skipped) and by hard-capping W36 descent at or below
+last week's actual with no progression, per the ITB rule.
