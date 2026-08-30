@@ -6,7 +6,7 @@ planned_hours: 7.3  # core; + optional mobility ~1.5 h -> ~8.8 h total
 run_km: 44  # ACTUAL: stairs 11.8 + Wed 8.3 + FG 12.05 + Sat 11.7 = 43.9
 descent_m: 928  # ACTUAL: stairs 320 + FG 569 + Sat flat 39; target 570, ceiling 820 — breached
 long_run_day: fri
-updated: 2026-08-30  # Sat run happened despite cancellation; ITB reading still outstanding
+updated: 2026-08-30  # ITB resolved to 0.2-0.6/10 — no rehab mode; 7-day rule still binds
 ---
 # Week 2026-W35 — Divca sharpening, build week 1
 
@@ -99,8 +99,7 @@ hottest day (36.6°C max) — long run starts pre-dawn.
   rest day. Net: much less harmful than a trail descent, but it consumed the
   clean assessment window. The 08-29 morning cold reading — the one datapoint
   the rehab-mode decision was waiting on — was never taken or reported.
-- **Strength B** (stage 0, 12 reps/set): status unknown, not in COROS.
-  Report whether it was done.
+- **Strength B** (stage 0, 12 reps/set): **done as planned.** Stage 0 holds.
 - Week run km now ~43.9 actual against a planned 40.
 - Stretching: B, plus movement breaks.
 - Calories: ~2900 kcal (session ~710)
@@ -112,10 +111,10 @@ hottest day (36.6°C max) — long run starts pre-dawn.
   score is the more honest number and the two disagree, so take the
   conservative one). There is no version of today that includes running.
   Walking, easy movement, and not sitting all day are the work.
-- **ITB reading needed today, cold, first thing you read this:** rate it at
-  rest, going down stairs, and standing up from sitting. That reading decides
-  whether W36 is a normal build week or rehab mode (run volume −30 %, zero
-  descent). Divca is 29 days out.
+- **ITB reading (reported this evening): 0.2/10 cold on Saturday morning,
+  stiffness through the day, 0.6/10 Sunday evening.** Down from 3/10 on 08-28
+  and below the 2/10 sitting-only baseline. **No rehab mode for W36.** The
+  7-day rule still binds: no descent progression, strength stays stage 0.
 - Calories: ~2200 kcal
 - Stretching: B (long-sitting day) — full variant, plus movement breaks.
 
@@ -124,16 +123,16 @@ hottest day (36.6°C max) — long run starts pre-dawn.
 (stairs 320 + FG 569 + Sat 39).
 **Invariants re-checked 2026-08-30:** hours ✓ · run km ✓ (43.9 vs 40 planned,
 inside the 10 % ramp on last week's actual) · **hard-day adjacency ✗ — Fri
-long run followed by Sat 11.7 km** · strength 2× (Sat unconfirmed) ·
+long run followed by Sat 11.7 km** · strength 2× ✓ ·
 long run Fri ✓ · **descent 928 > 820 ceiling ✗.**
 
 **Carried into W36 planning as binding constraints:**
 1. ITB severity 3 at rest on 2026-08-28 — highest logged. No descent
    progression; W36 descent capped at or below last week's actual.
 2. Strength holds stage 0. No plyometrics.
-3. Rehab-mode decision (run volume −30 %, no descent work) is still OPEN —
-   it now hangs on the 2026-08-30 reading, since 08-29 was never reported and
-   an 11.7 km run was run through it.
+3. Rehab-mode decision: RESOLVED — not triggered. 08-29 cold 0.2/10, 08-30
+   evening 0.6/10, both below the 2/10 baseline. W36 is a normal build week
+   under the descent freeze, not a −30 % rehab week.
 4. Two consecutive weeks have now overshot their descent ceiling and their
    cancelled/downgraded sessions. W36 planning treats stated caps as caps,
    and the long run gets a named flat route, not a "flatter option".
