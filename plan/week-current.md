@@ -1,139 +1,148 @@
 ---
-week: 2026-W35
-dates: {start: 2026-08-24, end: 2026-08-30}
-meso_week: "1 of 3 (build)"
-planned_hours: 7.3  # core; + optional mobility ~1.5 h -> ~8.8 h total
-run_km: 44  # ACTUAL: stairs 11.8 + Wed 8.3 + FG 12.05 + Sat 11.7 = 43.9
-descent_m: 928  # ACTUAL: stairs 320 + FG 569 + Sat flat 39; target 570, ceiling 820 — breached
-long_run_day: fri
-updated: 2026-08-30  # ITB resolved to 0.2-0.6/10 — no rehab mode; 7-day rule still binds
+week: 2026-W36
+dates: {start: 2026-08-31, end: 2026-09-06}
+meso_week: "2 of 3 (build)"
+planned_hours: 8.3  # core; + optional mobility run ~0.8 h -> ~9.1 h total
+run_km: 42  # core 34 + optional mobility 8
+descent_m: 720  # stairs 320 (held, not progressed) + FG cap 400
+long_run_day: sat
+updated: 2026-08-30
 ---
-# Week 2026-W35 — Divca sharpening, build week 1
+# Week 2026-W36 — Divca sharpening, build week 2
 
-User edits applied at planning: long run moved to Friday (swap with strength
-B), easy 8 km mobility runs added to both strength days (optional, sitting
-outside the core plan per the 2026-08-22 ruling). Monday and Sunday are rest
-days — user preference; full recovery around the Friday long run.
+**This week is written differently, on purpose.** W35 was planned at 40 km /
+570 m and executed at 50.7 km / 944 m, with a cancelled session run anyway.
+Rather than reissue caps that get overridden, the week gives back what the
+evidence says is safe — running frequency, flat volume, honest pace — and
+spends all of its discipline on the one variable that actually flared the
+knee: **sustained descent**.
 
-Forecast (Open-Meteo, fetched 2026-08-22): hot week — daily max 32–37°C,
-morning minima 20–23°C. Everything goes early morning. Friday 28th is the
-hottest day (36.6°C max) — long run starts pre-dawn.
+The three-point evidence from last week: 320 m of short stair descents → 1/10.
+569 m of sustained trail descent → 3/10 at rest. 11.7 km at 5:40/km with 39 m
+of descent → 0.2/10. Volume and pace are not the problem. Descent is.
 
-## Monday — 2026-08-24
-- **Rest** — user preference; full recovery around the Friday long run.
-  Optional 10 min mobility/stretching at home.
+**Binding constraints (ITB symptom 2026-08-28, inside the 7-day window):**
+no descent progression; strength holds stage 0; no plyometrics. Descent
+budget for the week is **720 m** — below last week's 944 m actual, with the
+stair component held flat at last week's number rather than progressed.
+
+**Forecast (Open-Meteo, fetched 2026-08-30):** Mon 36.7 °C (the hottest day
+of the block — hence Monday is a short pre-dawn flat run and nothing else).
+Tue 30.8 °C with **82 % precipitation** — see the wet-stairs alternative.
+Wed–Fri 28.8–29.8 °C, the cool window. Sat 33.9 °C — long run goes pre-dawn
+into Fruška Gora shade, exactly as it did last Friday, which worked.
+
+## Monday — 2026-08-31 (36.7 °C — hottest day)
+- **Easy flat run, 8 km, riverbank.** Start **05:45** (23 °C); be done before
+  07:00. Cap HR at **135**; pace is whatever HR 135 gives, ignore the watch's
+  opinion. Zero descent by design.
+- This slot was rest last week and you ran it anyway. It is now a planned
+  session, so it counts against the week's budget instead of hiding in it.
+  That is the whole trade: it is yours, and in exchange the Saturday descent
+  cap is real.
+- Calories: ~2700 kcal
+- Stretching: A
+
+## Tuesday — 2026-09-01 (30.8 °C, 82 % rain)
+- **Fortress stair repeats — 8 reps. HELD at last week's 8, not progressed
+  to 10.** The meso says 10; the descent freeze overrides the meso.
+- Structure: ~25 min easy jog out · **8 × (stairway up at RPE 7/10, ~90 s →
+  stairway down easy, ~3–4 min)** · ~25 min easy jog back. ~80 min total,
+  ~11–12 km, ~320 m descent.
+- **Descend the stairway, never the cobblestones.** Cadence +5 %, shorter and
+  slightly wider step. First hint of lateral tightness → walk that descent
+  and stop the session at that rep count.
+- Wrist HR is unreliable on stairs — judge reps by effort.
+- **Wet-stairs alternative (82 % rain):** if the stone is wet, do **not** run
+  the descents — bracing on slick stone is exactly the eccentric load being
+  avoided. Walk every descent (session becomes ~90 min, same 8 reps), or
+  swap: easy 8 km flat today, stairs Wednesday morning, optional mobility run
+  moves to today.
+- Fueling: 1 Alesto fruit bar (19 g carbs) with water sips, ~40 min in.
+- Calories: ~3000 kcal
+- Stretching: A
+
+## Wednesday — 2026-09-02 (29.2 °C — cool)
+- **Strength A** (stage 0, 15–16 reps/set), ~40 min, home, evening. Stage 0
+  holds — no new stimulus, no plyometric additions. 25–40 g protein within
+  the hour.
+- **OPTIONAL easy mobility run, ≤8 km flat, riverbank**, 06:00, HR ≤135.
+  Sits outside the core plan per the 2026-08-22 ruling.
+- Calories: ~2900 kcal
+- Stretching: A. Desk-heavy day → add the Variant B sitting bits and take
+  movement breaks.
+
+## Thursday — 2026-09-03 (28.8 °C — coolest day)
+- **Social ride** (fixed): ~15 km flat → 100 m + 400 m climb @ ~10 % →
+  ~20 km back, ~1:40. Counts as bike quality. Ride it as you like — it is two
+  days clear of the long run, so there is no adjacency problem to manage this
+  week.
+- Fueling: 2 bottles, 1 Balans bar (29.5 g carbs) on the return leg.
+- Calories: ~3100 kcal
+- Stretching: A
+
+## Friday — 2026-09-04 (29.8 °C)
+- **Strength B** (stage 0, 12 reps/set), ~40 min, home. Stage 0 holds.
+  25–40 g protein within the hour.
+- **No run.** This is the day that protects Saturday. If you run it, Saturday
+  is not a long run any more, it is the second half of a two-day block on a
+  knee that flared eight days ago.
+- Calories: ~2700 kcal — **carb emphasis** (long run tomorrow)
+- Stretching: B, plus movement breaks.
+
+## Saturday — 2026-09-05 (LONG RUN, 33.9 °C max) — THE DESCENT-CAPPED SESSION
+- **Ride out 05:15** (~10 km, ~350 m gain, ~40 min, easy — it is the warm-up).
+  Trail from **~06:00 to ~08:00**.
+- **Trail: ~14 km / 2:00, ridge-and-contour, descent capped at 400 m.**
+  Pick the route **before you start**, by name, and ride the profile in your
+  head first. Last week the plan said "the flatter option" and the legs chose
+  a 569 m route — ambiguity is what broke the cap, so this week the number is
+  400 and the route is chosen at the trailhead, not at the junction.
+- Effort by HR: **cap 135**, this is aerobic time on feet, not a workout.
+  Heat is load — expect drift and let the pace go.
+- Every descent: cadence +5 %, shorter and slightly wider step, **walk the
+  steep pitches from the start rather than after they hurt**. This is also
+  the Divca race tactic, so treat today as the rehearsal of it.
+- **Stop-and-walk rule stands.** If lateral tightness appears, walk it out;
+  if it does not settle in 5 minutes, turn for the bike and ride home. Ending
+  early costs one session. Another 3/10 costs the Divca build.
+- Ride home ~30 min easy (bike descent is not eccentric run load — it is free).
+- **Fueling:** ~3 h 10 total. 6 items, one every ~30 min from 30 min in:
+  2 Alesto fruit bars, 2 Balans bars, 1 SiS gel, 1 × 30 g Haribo portion
+  (~135 g carbs, ~43 g/h). **Carry ≥ 2 L** — no refill on the ridge, and
+  it will be 22 °C at the start climbing through the session.
+- Calories: ~3400 kcal (BMR×1.4 ≈ 2240 + session ≈ 1150) — carb emphasis
+- Protein: 25–40 g within the hour after.
+- Stretching: A, done properly. Post-descent is when it earns its keep.
+- **Report the knee Saturday evening AND Sunday morning cold.** The 08-28
+  lesson is that the reading that matters arrives 12–24 h late.
+
+## Sunday — 2026-09-06 (32.4 °C)
+- **Rest.** Full recovery into build week 3, which is the last build before
+  the Divca taper meso.
 - Calories: ~2200 kcal
 - Stretching: B (long-sitting day)
 
-## Tuesday — 2026-08-25
-- **DONE 06:08** — stair repeats executed as planned: 8 reps, 11.79 km /
-  1:18:33, 312↑ / 320↓ m, ~730 kcal. Wrist HR unreliable on stairs (avg
-  132) — judged by effort. Overran the ≤60 min estimate because the jog in
-  is ~25 min each way and cobblestone descents were skipped (stairway-down
-  laps ≤6 min instead); route file updated with real timings. Overrun OK'd
-  by user, repeatable.
-- Remaining today: stretching A, normal day (~2900 kcal).
-- Stretching: A
-
-## Wednesday — 2026-08-26
-- **DONE 06:34** — easy mobility run executed as planned: 8.30 km / 48:22,
-  avg pace 5:49/km, avg HR 121, ~483 kcal. Comfortably under the ≤135 cap
-  (5:49/km at HR 121 is a good aerobic signal); got out before the heat.
-- **Strength A** (stage 0, 15–16 reps/set), ~40 min, at home, evening — as
-  planned, stage 0 holds (no progression this week). Fan on; it is ~30°C
-  indoors after 20:00. 25–40 g protein within the hour after.
-- Calories: ~2900 kcal
-- Stretching: A (post-run). Desk-heavy day → add the Variant B sitting bits
-  and take movement breaks (known ITB trigger).
-- Note: today re-forecast to 32.5°C max (plan assumed 28.5°C) — irrelevant
-  to the executed morning run, but Wednesday was not the cool day.
-- Heads-up for tomorrow: Thursday re-forecast to 35.7°C max (was 31°C) —
-  the social ride wants 2 full bottles + electrolytes and the earliest start
-  the group will accept.
-
-## Thursday — 2026-08-27
-- **Social ride** (fixed): ~15 km flat + 100 m & 400 m climb @ ~10% + ~20 km
-  return, ~1:45, quality bike. Bring 2 bottles — 31°C max.
-- Calories: ~3100 kcal — carb emphasis (long run tomorrow)
-- Stretching: A
-
-## Friday — 2026-08-28 (LONG RUN) — DONE, DESCENT OVERSHOT
-- **DONE.** Ride out 05:35, 9.88 km / 38:32, avg HR 99, 192 kcal. Trail
-  06:16–07:54: **12.05 km / 1:38:40, 557↑ / 569↓ m**, avg HR 126, cadence
-  146 spm, adjusted pace 6:12/km, 743 kcal, load 87, aerobic TE 2.6.
-  Started in 22°C, finished at 22.9°C — the pre-dawn start worked.
-- **Variance vs plan:** time on feet 1:39 instead of 2:00–2:10 (short by
-  ~25 min) and distance 12.05 vs 14 km — fine, the shortfall is the cheap
-  part. The expensive part: **descent 569 m against a downgraded target of
-  ~250 m** — the route taken was materially steeper than the flatter/ridge
-  option the downgrade called for. HR 126 says it was run aerobically, not
-  hard, but the eccentric load on a left ITB that signalled two days ago is
-  the whole point of the cap, and it was doubled.
-- Week descent now ~889 m actual (stairs 320 + FG 569) against the revised
-  570 m plan and the invariant-3 ceiling of 820 m. Both breached. Carried
-  into the weekly review as the headline flag for W36 — no descent
-  progression next week regardless of how the knee feels.
-- Remaining today: ride home (~10 km easy, ~190 kcal) if not already done.
-  Nothing else. Do not add anything.
-- Calories: ~3400 kcal (BMR×1.4 ≈ 2240 + session ≈ 1125) — carb emphasis
-- Stretching: A, and do it properly — post-descent is exactly when it earns
-  its keep. Add the Variant B sitting bits if the afternoon is desk-bound.
-- Protein: 25–40 g in the hour after finishing.
-- **ITB outcome (reported this evening): 0/10 around Thursday's bike →
-  0.5/10 during the run → 3/10 at rest afterwards.** Highest severity
-  logged to date, and above the sitting-only baseline of 2. Delayed
-  presentation is textbook for eccentric load; the 569 m descent is the
-  cause. Logged to log/itb.md. Saturday's run is cancelled as a result.
-
-## Saturday — 2026-08-29 — RUN WAS CANCELLED; IT HAPPENED ANYWAY
-- **Plan said: no run.** Cancelled outright the evening before, on a 3/10
-  at-rest ITB reading following a 569 m descent.
-- **Actual (COROS):** Outdoor Run 11.72 km / 1:06:21, avg pace 5:40/km
-  (moving 5:22, best km 4:55), avg HR 132, cadence 171 spm, 30↑ / 39↓ m,
-  708 kcal, load 77, aerobic TE 2.4.
-- **Read:** the mitigating facts are real — it was flat (39 m of descent, so
-  essentially zero eccentric load, the thing that actually irritated the ITB)
-  and HR 132 is aerobic. The aggravating facts are also real: 11.7 km is
-  46 % longer than the 8 km mobility run that was cancelled, 5:40/km is the
-  fastest running of the week, and load 77 on a rest-and-assess day is not a
-  rest day. Net: much less harmful than a trail descent, but it consumed the
-  clean assessment window. The 08-29 morning cold reading — the one datapoint
-  the rehab-mode decision was waiting on — was never taken or reported.
-- **Strength B** (stage 0, 12 reps/set): **done as planned.** Stage 0 holds.
-- Week run km now ~43.9 actual against a planned 40.
-- Stretching: B, plus movement breaks.
-- Calories: ~2900 kcal (session ~710)
-
-## Sunday — 2026-08-30
-- **Rest. Unchanged, and now non-negotiable.** Yesterday added an unplanned
-  11.7 km at load 77 on a knee that read 3/10 at rest 36 hours ago; sleep
-  last night was 5h27 at score 38 (COROS says recovery 100 % — the sleep
-  score is the more honest number and the two disagree, so take the
-  conservative one). There is no version of today that includes running.
-  Walking, easy movement, and not sitting all day are the work.
-- **ITB reading (reported this evening): 0.2/10 cold on Saturday morning,
-  stiffness through the day, 0.6/10 Sunday evening.** Down from 3/10 on 08-28
-  and below the 2/10 sitting-only baseline. **No rehab mode for W36.** The
-  7-day rule still binds: no descent progression, strength stays stage 0.
-- Calories: ~2200 kcal
-- Stretching: B (long-sitting day) — full variant, plus movement breaks.
-
 ---
-**Week totals (actual):** core ~8.0 h · run ~43.9 km · **descent ~928 m**
-(stairs 320 + FG 569 + Sat 39).
-**Invariants re-checked 2026-08-30:** hours ✓ · run km ✓ (43.9 vs 40 planned,
-inside the 10 % ramp on last week's actual) · **hard-day adjacency ✗ — Fri
-long run followed by Sat 11.7 km** · strength 2× ✓ ·
-long run Fri ✓ · **descent 928 > 820 ceiling ✗.**
+**Week totals (planned):** core **8.3 h** · run **34 km core / 42 km with the
+optional** · descent **720 m**.
 
-**Carried into W36 planning as binding constraints:**
-1. ITB severity 3 at rest on 2026-08-28 — highest logged. No descent
-   progression; W36 descent capped at or below last week's actual.
-2. Strength holds stage 0. No plyometrics.
-3. Rehab-mode decision: RESOLVED — not triggered. 08-29 cold 0.2/10, 08-30
-   evening 0.6/10, both below the 2/10 baseline. W36 is a normal build week
-   under the descent freeze, not a −30 % rehab week.
-4. Two consecutive weeks have now overshot their descent ceiling and their
-   cancelled/downgraded sessions. W36 planning treats stated caps as caps,
-   and the long run gets a named flat route, not a "flatter option".
-5. Monday 08-31 forecast 36.7 °C max — W36 sessions go pre-dawn.
+**Invariants checked:**
+1. Hours 8.3 core ≤ 9 ✓ (optional mobility run pushes the total to ~9.1,
+   permitted by the 2026-08-22 ruling).
+2. Run km 42 ≤ 1.10 × 50.7 actual = 55.8 ✓ — and deliberately well under it,
+   and under the meso's 46 km target.
+3. Descent 720 ≤ 944 last-week actual ✓, no progression (stairs held at 320,
+   FG cut from 569 to 400).
+4. Hard days Tue / Thu / Sat — none adjacent ✓. Long run is Saturday
+   specifically so the Thursday quality ride is two days clear of it, which
+   resolves the soft-adjacency rule that was live last week ✓.
+5. Strength 2× (Wed A, Fri B), home, stage 0 ✓.
+6. Long run Saturday ✓.
+7. Load ratio at review = 1.00, below the 1.3 gate → build week stands, no
+   auto-conversion to a down week ✓.
+
+**Open for the athlete:** the long run is on Saturday rather than Friday. If
+Friday suits you better, say so and I will move it — but then Thursday's ride
+becomes an easy spin, because fresh quality ride legs into controlled descents
+is the exact combination the rules forbid on a rebuilding ITB.

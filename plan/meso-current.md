@@ -3,10 +3,10 @@ meso: 1
 phase: "Phase 1 — Divca sharpening"
 weeks: {start: 2026-08-24, end: 2026-09-13, count: 3}
 week_types: [build, build, build]
-run_km_targets: [40, 46, 48]
-descent_m_targets: [720, 780, 820]
+run_km_targets: [40, 42, 46]  # W2/W3 cut 2026-08-30: ITB descent freeze
+descent_m_targets: [570, 720, 720]  # frozen 2026-08-30; no progression while symptomatic
 strength_stage: 0
-updated: 2026-08-22
+updated: 2026-08-30
 ---
 # Mesocycle 1 — Divca sharpening, build block
 
@@ -16,8 +16,15 @@ Fruška Gora trail long run (Sat, access ride budgeted). Downhill exposure
 grows in small controlled doses (stairs + FG descents) because descent is the
 ITB trigger — never more than +10% descent week over week, per coach rules.
 
-**What progresses:** long-run trail time (2:00 → 2:40 on trail), stair-repeat
-count (8 → 12), weekly descent meters per targets above.
+**What progresses:** long-run trail time (2:00 → 2:40 on trail).
+
+**REVISED 2026-08-30 (ITB symptom 3/10 on 08-28):** stair-repeat count is
+FROZEN at 8 and weekly descent is FROZEN at 720 m for W36–W37 — no
+progression while a symptom sits inside the 7-day window. W35 established
+that flat volume and pace do not provoke the ITB and sustained descent does,
+so the block now builds aerobic time on feet and holds descent flat. Divca
+descent tolerance will be managed on race day by the execution rule (walk
+the steep pitches from the start), not manufactured in three weeks.
 
 **What holds:** strength stage 0 (2×/week, no changes before the race), run
 volume band 40–48 km (hours cap binds — race specificity beats volume),
