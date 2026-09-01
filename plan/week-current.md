@@ -6,7 +6,7 @@ planned_hours: 8.3  # core; + optional mobility run ~0.8 h -> ~9.1 h total
 run_km: 42  # core 34 + optional mobility 8
 descent_m: 720  # stairs 320 (held, not progressed) + FG cap 400
 long_run_day: sat
-updated: 2026-08-30
+updated: 2026-09-01
 ---
 # Week 2026-W36 — Divca sharpening, build week 2
 
@@ -42,8 +42,12 @@ into Fruška Gora shade, exactly as it did last Friday, which worked.
   cap is real.
 - Calories: ~2700 kcal
 - Stretching: A
+- **Actual (COROS):** 10.05 km / 58:10 @ 5:47/km, avg HR 130 ✓ under the cap.
+  2 km over the planned 8 — logged, counts against the week's run budget;
+  HR discipline was right, keep the distance honest next time.
 
-## Tuesday — 2026-09-01 (30.8 °C, 82 % rain)
+## Tuesday — 2026-09-01 (updated forecast 2026-09-01: rain overnight only,
+0 % from 11:00; 24 °C at 06:00, peak 31.8 °C ~16:00)
 - **Fortress stair repeats — 8 reps. HELD at last week's 8, not progressed
   to 10.** The meso says 10; the descent freeze overrides the meso.
 - Structure: ~25 min easy jog out · **8 × (stairway up at RPE 7/10, ~90 s →
@@ -53,7 +57,10 @@ into Fruška Gora shade, exactly as it did last Friday, which worked.
   slightly wider step. First hint of lateral tightness → walk that descent
   and stop the session at that rep count.
 - Wrist HR is unreliable on stairs — judge reps by effort.
-- **Wet-stairs alternative (82 % rain):** if the stone is wet, do **not** run
+- **Go morning, ~06:15–06:30 start** (23–24 °C; evening is still ~29–30 °C).
+  The 82 % rain day didn't materialize — only overnight showers possible, so
+  the session runs as planned. Check the stone on rep 1.
+- **Wet-stairs alternative (overnight showers):** if the stone is wet, do **not** run
   the descents — bracing on slick stone is exactly the eccentric load being
   avoided. Walk every descent (session becomes ~90 min, same 8 reps), or
   swap: easy 8 km flat today, stairs Wednesday morning, optional mobility run
