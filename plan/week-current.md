@@ -68,6 +68,8 @@ into Fruška Gora shade, exactly as it did last Friday, which worked.
 - Fueling: 1 Alesto fruit bar (19 g carbs) with water sips, ~40 min in.
 - Calories: ~3000 kcal
 - Stretching: A
+- **Actual (COROS):** 11.90 km / 1:19:27 @ 6:41/km, avg HR 127, start ~06:16.
+  Matches the planned session (~80 min, 11–12 km, 8 reps held) — on plan.
 
 ## Wednesday — 2026-09-02 (29.2 °C — cool)
 - **Strength A** (stage 0, 15–16 reps/set), ~40 min, home, evening. Stage 0

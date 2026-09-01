@@ -14,7 +14,11 @@ whole interaction to ONE screen of output — no ceremony.
 
 ## 1. Quick inputs
 
-- Yesterday's actual: `querySportRecords` (yesterday only).
+- FIRST: `querySportRecords` for TODAY and yesterday in one call. If today's
+  session is already recorded, do not prescribe it — log the actual into
+  today's section, compare against plan (distance, descent, HR discipline),
+  and shift the check-in to recovery/fueling/stretching for the rest of the
+  day plus a look-ahead to tomorrow.
 - Recovery: `queryRecoveryStatus` and/or `querySleepData` (last night).
 - Today's hourly forecast (coach-rules curl, hourly view).
 - One question max to the user, and only if needed ("any ITB signals /
