@@ -6,7 +6,7 @@ planned_hours: 8.3  # core; + optional mobility run ~0.8 h -> ~9.1 h total
 run_km: 42  # core 34 + optional mobility 8
 descent_m: 720  # stairs 320 (held, not progressed) + FG cap 400
 long_run_day: sat
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 # Week 2026-W36 — Divca sharpening, build week 2
 
@@ -77,7 +77,13 @@ into Fruška Gora shade, exactly as it did last Friday, which worked.
   the hour.
 - **OPTIONAL easy mobility run, ≤8 km flat, riverbank**, 06:00, HR ≤135.
   Sits outside the core plan per the 2026-08-22 ruling.
-- Calories: ~2900 kcal
+- **Actual (COROS):** mobility run done, 8.48 km / 53:02 @ 6:15/km, avg HR
+  117, start ~07:15. On plan (≤8 km ≈ honoured, HR well under 135, flat).
+  Week run total so far 30.4 km of 42. Sleep score 38 (7h18 in bed, 1h48
+  awake, 4 wake-ups) — recovery 90 % per COROS, but the night was poor, so
+  Strength A stays at stage 0 with no extra sets. Forecast now 31.8 °C peak
+  ~15:00, 29 °C at 20:00, dry — do strength after 20:00 or with a fan.
+- Calories: ~2900 kcal (BMR×1.4 ≈ 2240 + run 470 + strength ~200)
 - Stretching: A. Desk-heavy day → add the Variant B sitting bits and take
   movement breaks.
 
