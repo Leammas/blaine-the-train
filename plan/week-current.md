@@ -5,7 +5,7 @@ meso_week: "2 of 3 (build)"
 planned_hours: 8.3  # core; + optional mobility run ~0.8 h -> ~9.1 h total
 run_km: 42  # core 34 + optional mobility 8
 descent_m: 720  # stairs 320 (held, not progressed) + FG cap 400
-long_run_day: sat
+long_run_day: fri
 updated: 2026-09-03
 ---
 # Week 2026-W36 — Divca sharpening, build week 2
@@ -100,52 +100,59 @@ into Fruška Gora shade, exactly as it did last Friday, which worked.
   eccentric run load. Sleep score 43 (6h22, 1h22 awake, 3 wake-ups) — second
   poor night in a row; recovery 92 %. Rest of day: 25–40 g protein at lunch,
   no evening session, aim for bed by 22:00. 32.6 °C peak 15–16h, dry.
-- Calories: ~2900 kcal (BMR×1.4 ≈ 2240 + ride 713) — carb emphasis starts
-  tomorrow, not today.
+- Calories: ~2900 kcal (BMR×1.4 ≈ 2240 + ride 713) — **carb emphasis**
+  (long run tomorrow).
 - Stretching: A. Desk day after a ride → movement breaks every ~60 min.
-- **Look-ahead Friday:** Strength B stage 0 only, **no run**. 23 °C at 06:00,
-  32 °C peak — do strength morning or after 20:00. Carb emphasis Friday.
-  Saturday FG start unchanged (ride out 05:15, 400 m descent cap).
+- HRV check (athlete doubted the sleep score): sleep HRV 39 ms vs 48 / 55 /
+  37 over the last four nights; RHR 49 vs 45–50 this week. Low end of the
+  week's range, not an outlier — the score overstates it. Not a downgrade
+  signal.
+- ITB: 0.7/10 cold on waking, 0.5/10 after the ride and stretching. Logged.
+- **Long run moved to tomorrow (Friday)** at the athlete's request — see Friday.
+  Tonight: carb emphasis, bed by 22:00, kit and route named before sleep.
 
-## Friday — 2026-09-04 (29.8 °C)
-- **Strength B** (stage 0, 12 reps/set), ~40 min, home. Stage 0 holds.
-  25–40 g protein within the hour.
-- **No run.** This is the day that protects Saturday. If you run it, Saturday
-  is not a long run any more, it is the second half of a two-day block on a
-  knee that flared eight days ago.
-- Calories: ~2700 kcal — **carb emphasis** (long run tomorrow)
-- Stretching: B, plus movement breaks.
-
-## Saturday — 2026-09-05 (LONG RUN, 33.9 °C max) — THE DESCENT-CAPPED SESSION
+## Friday — 2026-09-04 (LONG RUN — moved from Saturday at the athlete's request, 2026-09-03) — THE DESCENT-CAPPED SESSION
+- Why Friday works: 23 °C at 05:00 and ~25 °C at 09:00 vs Saturday's 33.9 °C
+  max — the cooler day. Cost: it sits the day after a quality ride (620 m of
+  climbing, HR 137). The soft-adjacency rule therefore applies: **front-load
+  the descent into the first half** — take the 400 m down early while the
+  legs are fresh, finish on contour/ridge and the climb back to the bike.
 - **Ride out 05:15** (~10 km, ~350 m gain, ~40 min, easy — it is the warm-up).
   Trail from **~06:00 to ~08:00**.
-- **Trail: ~14 km / 2:00, ridge-and-contour, descent capped at 400 m.**
+- **Trail: ~14 km / 2:00, descent capped at 400 m, descents in the FIRST hour.**
   Pick the route **before you start**, by name, and ride the profile in your
-  head first. Last week the plan said "the flatter option" and the legs chose
-  a 569 m route — ambiguity is what broke the cap, so this week the number is
+  head first. Last week "the flatter option" became 569 m — the number is
   400 and the route is chosen at the trailhead, not at the junction.
-- Effort by HR: **cap 135**, this is aerobic time on feet, not a workout.
-  Heat is load — expect drift and let the pace go.
+- Effort by HR: **cap 135**. Aerobic time on feet, not a workout. Yesterday's
+  ride is in the legs — if HR runs high for the pace, that is the answer, not
+  a problem to push through.
 - Every descent: cadence +5 %, shorter and slightly wider step, **walk the
-  steep pitches from the start rather than after they hurt**. This is also
-  the Divca race tactic, so treat today as the rehearsal of it.
-- **Stop-and-walk rule stands.** If lateral tightness appears, walk it out;
-  if it does not settle in 5 minutes, turn for the bike and ride home. Ending
-  early costs one session. Another 3/10 costs the Divca build.
-- Ride home ~30 min easy (bike descent is not eccentric run load — it is free).
+  steep pitches from the start rather than after they hurt**. Divca rehearsal.
+- **Stop-and-walk rule stands.** Lateral tightness → walk it out; not settled
+  in 5 minutes → turn for the bike and ride home.
+- Ride home ~30 min easy.
 - **Fueling:** ~3 h 10 total. 6 items, one every ~30 min from 30 min in:
   2 Alesto fruit bars, 2 Balans bars, 1 SiS gel, 1 × 30 g Haribo portion
-  (~135 g carbs, ~43 g/h). **Carry ≥ 2 L** — no refill on the ridge, and
-  it will be 22 °C at the start climbing through the session.
+  (~135 g carbs, ~43 g/h). **Carry ≥ 2 L** — no refill on the ridge.
 - Calories: ~3400 kcal (BMR×1.4 ≈ 2240 + session ≈ 1150) — carb emphasis
 - Protein: 25–40 g within the hour after.
-- Stretching: A, done properly. Post-descent is when it earns its keep.
-- **Report the knee Saturday evening AND Sunday morning cold.** The 08-28
-  lesson is that the reading that matters arrives 12–24 h late.
+- Stretching: A, done properly, post-descent.
+- **Report the knee Friday evening AND Saturday morning cold.** The 12–24 h
+  delayed reading is the one that matters.
+
+## Saturday — 2026-09-05 (33.9 °C max)
+- **Strength B** (stage 0, 12 reps/set), ~40 min, home, morning before the
+  heat or after 20:00. Stage 0 holds — no new stimulus, no plyos. 25–40 g
+  protein within the hour. Moved here from Friday; a strength session the
+  day after the long run is fine — it is not a run day.
+- **No run.** Saturday morning cold knee reading is the decision input for
+  next week's descent budget.
+- Calories: ~2500 kcal
+- Stretching: A
 
 ## Sunday — 2026-09-06 (32.4 °C)
-- **Rest.** Full recovery into build week 3, which is the last build before
-  the Divca taper meso.
+- **Rest.** Full recovery into build week 3, the last build before the Divca
+  taper meso.
 - Calories: ~2200 kcal
 - Stretching: B (long-sitting day)
 
@@ -160,15 +167,15 @@ optional** · descent **720 m**.
    and under the meso's 46 km target.
 3. Descent 720 ≤ 944 last-week actual ✓, no progression (stairs held at 320,
    FG cut from 569 to 400).
-4. Hard days Tue / Thu / Sat — none adjacent ✓. Long run is Saturday
-   specifically so the Thursday quality ride is two days clear of it, which
-   resolves the soft-adjacency rule that was live last week ✓.
+4. Hard RUN days Tue / Fri — not adjacent ✓. Long run moved to Friday
+   (2026-09-03, athlete's request); Thursday's quality ride is already done
+   so it cannot be downgraded — soft-adjacency rule satisfied the other way:
+   the long run's 400 m descent is front-loaded into its first hour ✓.
 5. Strength 2× (Wed A, Fri B), home, stage 0 ✓.
-6. Long run Saturday ✓.
+6. Long run Friday ✓.
 7. Load ratio at review = 1.00, below the 1.3 gate → build week stands, no
    auto-conversion to a down week ✓.
 
-**Open for the athlete:** the long run is on Saturday rather than Friday. If
-Friday suits you better, say so and I will move it — but then Thursday's ride
-becomes an easy spin, because fresh quality ride legs into controlled descents
-is the exact combination the rules forbid on a rebuilding ITB.
+**Resolved 2026-09-03:** long run moved to Friday (cooler day, 23–25 °C vs
+33.9 °C). Thursday ride already ridden as quality, so the descent is
+front-loaded instead.
