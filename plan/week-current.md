@@ -6,7 +6,7 @@ planned_hours: 8.3  # core; + optional mobility run ~0.8 h -> ~9.1 h total
 run_km: 42  # core 34 + optional mobility 8
 descent_m: 720  # stairs 320 (held, not progressed) + FG cap 400
 long_run_day: sat
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 # Week 2026-W36 — Divca sharpening, build week 2
 
@@ -93,8 +93,19 @@ into Fruška Gora shade, exactly as it did last Friday, which worked.
   days clear of the long run, so there is no adjacency problem to manage this
   week.
 - Fueling: 2 bottles, 1 Balans bar (29.5 g carbs) on the return leg.
-- Calories: ~3100 kcal
-- Stretching: A
+- **Actual (COROS):** ride done, 28.82 km / 1:23:45 @ 20.7 km/h, 620 m gain /
+  625 m loss, avg HR 137, load 124, start 06:39 (22 °C). Shorter than the
+  planned ~1:40 but more climbing than the ~500 m written — quality box
+  ticked, no adjacency issue (long run is Saturday). Bike descent is not
+  eccentric run load. Sleep score 43 (6h22, 1h22 awake, 3 wake-ups) — second
+  poor night in a row; recovery 92 %. Rest of day: 25–40 g protein at lunch,
+  no evening session, aim for bed by 22:00. 32.6 °C peak 15–16h, dry.
+- Calories: ~2900 kcal (BMR×1.4 ≈ 2240 + ride 713) — carb emphasis starts
+  tomorrow, not today.
+- Stretching: A. Desk day after a ride → movement breaks every ~60 min.
+- **Look-ahead Friday:** Strength B stage 0 only, **no run**. 23 °C at 06:00,
+  32 °C peak — do strength morning or after 20:00. Carb emphasis Friday.
+  Saturday FG start unchanged (ride out 05:15, 400 m descent cap).
 
 ## Friday — 2026-09-04 (29.8 °C)
 - **Strength B** (stage 0, 12 reps/set), ~40 min, home. Stage 0 holds.
