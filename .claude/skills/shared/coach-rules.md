@@ -63,7 +63,13 @@ with a caveat.
 - Read log/itb.md before planning anything. Append every reported symptom:
   `YYYY-MM-DD | context | severity 1-5 | note`.
 - Symptom in last 7 days → downgrade next downhill/long session, no descent
-  progression this week, stay on current strength stage.
+  progression this week.
+- Strength progression (user ruling 2026-09-05): any reading ≥ 2/10 in the
+  last 7 days → stay on current strength stage. Readings ≤ 1/10 that are not
+  escalating do NOT block load progression (heavier backpack/bottles, fewer
+  reps, single-leg loading); they only block plyometric or impact additions.
+  Rationale: hip/glute loading protects the ITB and is not an eccentric
+  impact stimulus; a diligently reported 0.2/10 must not freeze it.
 - Descent technique cues on every planned descent work: cadence +~5 %,
   shorter and slightly wider step on downhills (both reduce iliotibial
   strain); stop-and-walk at the first lateral tightness stays in force.

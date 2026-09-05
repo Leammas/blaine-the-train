@@ -35,4 +35,6 @@ Plus 1 set × 20 reps each:
 - Direction: heavier single-leg loading and hip stability under fatigue.
 - A new stage is proposed in a weekly plan, appended here as "Stage N" with
   full exercise list, and only becomes current when the user confirms.
-- Any ITB symptom in the last 7 days → stay on current stage.
+- ITB gate (updated 2026-09-05): any symptom ≥ 2/10 in the last 7 days → stay
+  on current stage. Readings ≤ 1/10 and non-escalating allow load progression
+  but block plyometric/impact additions (see coach-rules.md, ITB management).
