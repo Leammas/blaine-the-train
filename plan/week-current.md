@@ -199,3 +199,9 @@ optional** · descent **720 m**.
 **Resolved 2026-09-03:** long run moved to Friday (cooler day, 23–25 °C vs
 33.9 °C). Thursday ride already ridden as quality, so the descent is
 front-loaded instead.
+
+**Resolved 2026-09-05 (for the W37 review):** strength rule amended (freeze
+only on ITB ≥ 2/10) → propose stage 1, load as the single progressed
+variable, no plyos. Stair repeats go to 10 reps (descents walked, ~400 m)
+with the FG cap held at 400 m and the route named with measured loss;
+week descent 800 m ≤ 944 m baseline. Gate: Sun + Mon cold readings ≤ 1/10.
