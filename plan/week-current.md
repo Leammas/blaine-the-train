@@ -6,7 +6,7 @@ planned_hours: 8.3  # core; + optional mobility run ~0.8 h -> ~9.1 h total
 run_km: 42  # core 34 + optional mobility 8
 descent_m: 720  # stairs 320 (held, not progressed) + FG cap 400
 long_run_day: fri
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 # Week 2026-W36 — Divca sharpening, build week 2
 
@@ -139,6 +139,16 @@ into Fruška Gora shade, exactly as it did last Friday, which worked.
 - Stretching: A, done properly, post-descent.
 - **Report the knee Friday evening AND Saturday morning cold.** The 12–24 h
   delayed reading is the one that matters.
+- **Actual (COROS):** ride out 9.97 km / 40:31, HR 122, start 05:57 (ride home
+  not recorded). Trail 14.96 km / 1:49:19 @ 7:18/km (moving 7:03), avg HR
+  129 ✓ under the 135 cap, cadence 150, best km 4:32, **630 m gain / 635 m
+  loss — descent cap was 400 m, overshot by 235 m**, second week running the
+  FG descent exceeded the number written (569 vs ~250 last week). Distance
+  and time on plan; HR discipline good; load 135. Week descent actual
+  320 + 635 = **955 m vs 720 budgeted** and above last week's 944 m — the
+  no-progression invariant was broken in execution, not in planning. Next
+  week's descent baseline is last week's actual, not this one, and the FG
+  route is named in the plan by name with its measured loss.
 
 ## Saturday — 2026-09-05 (33.9 °C max)
 - **Strength B** (stage 0, 12 reps/set), ~40 min, home, morning before the
@@ -147,6 +157,16 @@ into Fruška Gora shade, exactly as it did last Friday, which worked.
   day after the long run is fine — it is not a run day.
 - **No run.** Saturday morning cold knee reading is the decision input for
   next week's descent budget.
+- **Check-in 2026-09-05:** sleep 77 (7h56, 32 min awake, 2 wake-ups) — the
+  first good night this week; recovery 100 %. Nothing recorded today yet.
+  Forecast: 25 °C at 06:00, 33.6 °C at 12:00, **35.7 °C at 15:00**, 30 °C at
+  18:00, 25.7 °C at 21:00, dry → Strength B either before 09:00 or after
+  20:30 with a fan. Stage 0, 12 reps/set, no plyos — unchanged: descent went
+  635 m yesterday, so the knee is owed a quiet eccentric day regardless of
+  how good the sleep was. Protein 25–40 g within the hour after. Knee
+  reading (Fri evening + Sat cold) still to be reported → log/itb.md.
+  Tomorrow: rest, 20 °C at 06:00 / 29 °C max — the cool day of the week,
+  and it stays rest; /coach-plan-week in the evening.
 - Calories: ~2500 kcal
 - Stretching: A
 
