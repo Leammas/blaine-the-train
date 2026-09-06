@@ -4,9 +4,9 @@ phase: "Phase 1 — Divca sharpening"
 weeks: {start: 2026-08-24, end: 2026-09-13, count: 3}
 week_types: [build, build, build]
 run_km_targets: [40, 42, 46]  # W2/W3 cut 2026-08-30: ITB descent freeze
-descent_m_targets: [570, 720, 720]  # frozen 2026-08-30; no progression while symptomatic
-strength_stage: 0
-updated: 2026-08-30
+descent_m_targets: [570, 720, 1010]  # W3 revised 2026-09-06: Bukovački 35.7k/980m substitutes for stairs+FG; ≤ W36 actual 1,017, no progression
+strength_stage: 1  # from 2026-09-07 (load only, no plyos), gated on Mon cold reading ≤1/10
+updated: 2026-09-06
 ---
 # Mesocycle 1 — Divca sharpening, build block
 
@@ -40,3 +40,15 @@ the 1.10×-3-week-average gate, re-derived weekly in practice.
 completed with no ITB symptom above 2/10 and no symptom on descents; last
 long run ≥2:30 trail time with sustained descents pain-free. If symptoms
 appear: freeze descent progression, keep flat volume, taper unchanged.
+
+**REVISED 2026-09-06 (W36 review):** W36 executed at 52.1 km / 1,017 m run
+descent (plan 42 / 720) with the knee peaking at 0.7/10 — the calmest week
+logged at the highest descent yet. W37 (build 3) swaps the stairs + FG long
+run for the **Bukovački maraton 35.7 km / 980 m** as a hike-run rehearsal of
+the Divca execution rule: every descent walked, HR ≤140, abort rule. Weekly
+descent held at the 1,017 m baseline by removing all other descent. Strength
+moves to **stage 1 (load only, no plyometric additions)** per the 2026-09-05
+rule — the "no new stimulus before the race" line above is superseded for
+load, not for impact. Exit criteria unchanged: the Bukovački day satisfies
+the ≥2:30 trail long run; the Sun 09-13 / Mon 09-14 cold readings (>2/10 =
+fail) decide whether the taper meso opens normally or in descent-free mode.
