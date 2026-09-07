@@ -48,20 +48,24 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
   HR 130 avg, 06:49 start, 19–20 °C.** On spec (HR ≤135, flat). Sleep 77
   → 74, 7 h 11 min; recovery 100 %. Stray 3-min "Strength" record at 15:21
   ignored. Week run km now 8.3 of 53.7; adjusted /coach-today 2026-09-07.
-- Rest of day: desk → movement breaks; strength tonight as above, stage 1
-  ONLY if the cold reading was ≤1/10 (report it). Tomorrow 06:00 threshold.
+- Rest of day: desk → movement breaks; cold knee 0.5/10 → **stage 1 unlocked**
+  for Strength A tonight. Tomorrow 06:00 threshold.
 - Calories: ~2900 kcal (BMR×1.4 ≈ 2235 + run 510 + strength ~200).
 - Stretching: B (desk day).
 
 ## Tuesday — 2026-09-08 (31.8 °C, 20.4 °C at 06:00) — HARD
 - **Flat threshold by HR, ~55 min / ~10 km, riverbank or paved flat.**
   Start **06:00**, home by 07:00.
-- Structure: 15 min easy warm-up · **3 × (8 min at HR 150–160, RPE 7–8 —
-  "short sentences only" — / 2 min easy jog)** · 10 min easy cool-down.
-- This is what the stairs never gave you: sustained race-effort HR on legs
-  that are not braking. Divca 2025 was 2:55 at avg HR 153 — the work
-  intervals sit at that effort. Pace is irrelevant; if HR runs high in the
-  warmth, slow down and hold the HR.
+- Structure: 15 min easy warm-up · **3 × (8 min at HR 158–166, RPE 8 —
+  a few words at a time, not sentences — / 2 min easy jog)** · 10 min easy
+  cool-down.
+- Corrected 2026-09-07: the original 150–160 was derived from the Divca
+  2025 race average (153 over 2:55), which is a 3-hour effort, not
+  threshold. COROS laps: 08-03 held 4:50/km for 10 km at HR 149–154 and
+  08-15 held 4:28–4:33/km for 5 km at HR 157–163 with room left — so
+  threshold sits ~160–166. No LTHR on file (COROS assessment distrusted);
+  athlete to confirm. Pace is irrelevant; if HR runs high in the warmth,
+  slow down and hold the HR.
 - Zero descent by design. Route loss ≤30 m.
 - Fueling: none needed (<75 min). Water before and after.
 - Calories: ~2900 kcal (2235 + ~620)
