@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-22
+updated: 2026-09-07
 # Body metrics, age, sex and location live in `athlete.private.md` (gitignored).
 ---
 # Athlete Profile
@@ -34,6 +34,18 @@ confidently, but only planned ones, absorbed by a following down week.
 - Long run slot is flexible: Fri/Sat/Sun/Mon all valid; user may slide it at
   daily check-in. Never adjacent to another hard run day.
 - Weekends (and long-run Fri/Mon) are uncapped in duration.
+
+## Heart-rate reference (lab test 2020-09-21, treadmill ramp, age 31)
+
+- HRmax 193 (test), VO2max 48.6 ml/kg/min, MET 13.9.
+- Aerobic threshold (VT1) 132 bpm at 7:41/km · anaerobic threshold (VT2)
+  178 bpm at 4:13/km (94 % VO2max — ramp tests read VT2 high).
+- Lab zones: Z1 <133 · Z2 133–159 · Z3 160–177 · Z4 178–185 · Z5 ≥186.
+- **Current working values (2026-09-07, age 37, 6 yr drift + recent COROS
+  laps: 4:30/km at 157–163 with room left; 5 km best 18:18 in 2025):**
+  HRmax ~188–190 · **LTHR ~170 (166–174)** · threshold pace ~4:00–4:10/km
+  flat · easy ceiling 135 (matches VT1). Re-test or a 30-min TT would
+  replace these estimates.
 
 ## ITB status
 

@@ -56,16 +56,15 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
 ## Tuesday — 2026-09-08 (31.8 °C, 20.4 °C at 06:00) — HARD
 - **Flat threshold by HR, ~55 min / ~10 km, riverbank or paved flat.**
   Start **06:00**, home by 07:00.
-- Structure: 15 min easy warm-up · **3 × (8 min at HR 158–166, RPE 8 —
+- Structure: 15 min easy warm-up · **3 × (8 min at HR 166–174, RPE 8 —
   a few words at a time, not sentences — / 2 min easy jog)** · 10 min easy
-  cool-down.
-- Corrected 2026-09-07: the original 150–160 was derived from the Divca
-  2025 race average (153 over 2:55), which is a 3-hour effort, not
-  threshold. COROS laps: 08-03 held 4:50/km for 10 km at HR 149–154 and
-  08-15 held 4:28–4:33/km for 5 km at HR 157–163 with room left — so
-  threshold sits ~160–166. No LTHR on file (COROS assessment distrusted);
-  athlete to confirm. Pace is irrelevant; if HR runs high in the warmth,
-  slow down and hold the HR.
+  cool-down. Let HR climb into the band over the first ~2 min of each rep;
+  do not surge to get there. Cap 176.
+- Corrected 2026-09-07 from the 2020 lab test (VT2 178 bpm at age 31,
+  HRmax 193) adjusted for six years and recent COROS laps (4:30/km at
+  157–163 with room left): working LTHR ~170, now in athlete.md. The
+  original 150–160 was the Divca 2025 race average — tempo, not threshold.
+  Pace irrelevant; expect ~4:05–4:20/km in the warmth, slower is fine.
 - Zero descent by design. Route loss ≤30 m.
 - Fueling: none needed (<75 min). Water before and after.
 - Calories: ~2900 kcal (2235 + ~620)
