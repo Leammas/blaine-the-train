@@ -6,7 +6,7 @@ planned_hours: 8.95  # core; + optional Monday mobility run ~0.8 h -> ~9.75 h to
 run_km: 46  # core 45.7 (Tue 10 + Sat 35.7) + optional Monday 8 -> 53.7
 descent_m: 1010  # Bukovački 980 + flat GPS noise; baseline 1,017 (W36 run actual) — no progression
 long_run_day: sat
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 # Week 2026-W37 — Divca sharpening, build week 3 → Bukovački maraton
 
@@ -44,12 +44,13 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
   new loads; jumps unchanged at stage-0 load. If an exercise cannot be done
   with control at the new load, drop the load back for that exercise only.
   25–40 g protein within the hour.
-- **OPTIONAL easy mobility run, ≤8 km, riverbank out-and-back, 06:00,
-  HR ≤135.** Outside the core plan (2026-08-22 ruling). After yesterday's
-  3 h+ on feet, skipping it is the better choice; if you run it, riverbank
-  only — it must not add descent.
-- Calories: ~2400 kcal (BMR×1.4 ≈ 2235 + strength ~200); ~2900 if the
-  optional run is done.
+- **DONE (COROS): optional mobility run 8.32 km / 50:30 / 6:04 min/km /
+  HR 130 avg, 06:49 start, 19–20 °C.** On spec (HR ≤135, flat). Sleep 77
+  → 74, 7 h 11 min; recovery 100 %. Stray 3-min "Strength" record at 15:21
+  ignored. Week run km now 8.3 of 53.7; adjusted /coach-today 2026-09-07.
+- Rest of day: desk → movement breaks; strength tonight as above, stage 1
+  ONLY if the cold reading was ≤1/10 (report it). Tomorrow 06:00 threshold.
+- Calories: ~2900 kcal (BMR×1.4 ≈ 2235 + run 510 + strength ~200).
 - Stretching: B (desk day).
 
 ## Tuesday — 2026-09-08 (31.8 °C, 20.4 °C at 06:00) — HARD
