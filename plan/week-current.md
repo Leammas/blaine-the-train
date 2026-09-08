@@ -6,7 +6,7 @@ planned_hours: 8.95  # core; + optional Monday mobility run ~0.8 h -> ~9.75 h to
 run_km: 46  # core 45.7 (Tue 10 + Sat 35.7) + optional Monday 8 -> 53.7
 descent_m: 1010  # Bukovački 980 + flat GPS noise; baseline 1,017 (W36 run actual) — no progression
 long_run_day: sat
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 # Week 2026-W37 — Divca sharpening, build week 3 → Bukovački maraton
 
@@ -69,6 +69,25 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
 - Fueling: none needed (<75 min). Water before and after.
 - Calories: ~2900 kcal (2235 + ~620)
 - Stretching: B (desk day). Movement breaks.
+- **DONE (COROS, 06:04 start, ~20 °C): 11.48 km / 57:33 / HR 147 avg, max 171,
+  8↑/15↓ m, 723 kcal, load 117.** Auto 1-km laps only (no rep laps pressed),
+  so reps are read from km splits: warm-up ~2 km / 13.8 min at HR 119–140;
+  work block km 3–10 (~7.4 km, ~29 min) at 3:52–4:32/km, lap HR 150–169
+  (peaks 163 / 167 / 169 on the three fast km); cool-down ~2.5 km / 9.4 min
+  at HR 131–135. Structure and cap (176) respected; descent 15 m ≤ 30 ✓;
+  distance +1.5 km over plan (fine, cool-down jog). **HR discipline: reps
+  averaged 163–169, i.e. at or just under the 166–174 floor while running
+  3:52–4:00/km — faster than the expected 4:05–4:20.** Either the reps
+  were pace-led rather than HR-led, or lap averages hide the 2-min climb
+  into the band. Not a problem today; for the taper-week threshold session
+  press the lap button per rep so the coach can read rep HR directly, and
+  let pace drift slower (4:05+) if HR is not in the band by minute 3.
+  Sleep 6 h 29 min (score 81, bed 22:07 — 30 min short of target); recovery
+  83 % this morning. Adjusted /coach-today 2026-09-08.
+- Rest of day: recovery. 25–40 g protein at breakfast (done or now), water
+  through the desk day, movement breaks every ~60 min, stretching B in the
+  evening, bed by 22:00 for a longer night before the rest day. Tomorrow:
+  full rest, hottest day (32.7 °C), cold knee reading on waking.
 
 ## Wednesday — 2026-09-09 (32.7 °C — hottest day, 18.8 °C at 06:00)
 - **Rest.** No run. The day was going to be strength; strength moved to
