@@ -50,6 +50,11 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
   ignored. Week run km now 8.3 of 53.7; adjusted /coach-today 2026-09-07.
 - Rest of day: desk → movement breaks; cold knee 0.5/10 → **stage 1 unlocked**
   for Strength A tonight. Tomorrow 06:00 threshold.
+- **DONE (user report 2026-09-08): Strength A stage 1 — loads +1.75 kg,
+  reps dropped 12–13 → 10 to keep control (per the drop-back rule); glute
+  bridges 16 reps + 20 s hold.** Not on COROS. Stage 1 load-only is now in
+  force; Sunday B repeats these loads at 10 reps, aim 11–12 reps at the
+  same load next week before adding load again.
 - Calories: ~2900 kcal (BMR×1.4 ≈ 2235 + run 510 + strength ~200).
 - Stretching: B (desk day).
 
@@ -82,7 +87,7 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
   into the band. Not a problem today; for the taper-week threshold session
   press the lap button per rep so the coach can read rep HR directly, and
   let pace drift slower (4:05+) if HR is not in the band by minute 3.
-  Sleep 6 h 29 min (score 81, bed 22:07 — 30 min short of target); recovery
+  Knee 0.5/10 cold; stiff for the first ~2 min of rep 1, no pain, felt very good after the intervals (logged log/itb.md). Sleep 6 h 29 min (score 81, bed 22:07 — 30 min short of target); recovery
   83 % this morning. Adjusted /coach-today 2026-09-08.
 - Rest of day: recovery. 25–40 g protein at breakfast (done or now), water
   through the desk day, movement breaks every ~60 min, stretching B in the
