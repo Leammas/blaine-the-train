@@ -84,9 +84,13 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
   averaged 163–169, i.e. at or just under the 166–174 floor while running
   3:52–4:00/km — faster than the expected 4:05–4:20.** Either the reps
   were pace-led rather than HR-led, or lap averages hide the 2-min climb
-  into the band. Not a problem today; for the taper-week threshold session
-  press the lap button per rep so the coach can read rep HR directly, and
-  let pace drift slower (4:05+) if HR is not in the band by minute 3.
+  into the band. Not a problem today. **User ruling 2026-09-08: ~3:55/km is the
+  threshold pace target, 4:05 is too slow** — accepted; today's 3:52–4:00
+  at HR 163–169/171 max is consistent with LTHR ~170, and the plan's
+  4:05–4:20 expectation was too conservative (now ~3:50–4:00 in athlete.md).
+  HR band 166–174 remains the governing metric; pace is the reference. For
+  the taper-week threshold session press the lap button per rep so rep HR
+  can be read directly.
   Knee 0.5/10 cold; stiff for the first ~2 min of rep 1, no pain, felt very good after the intervals (logged log/itb.md). Sleep 6 h 29 min (score 81, bed 22:07 — 30 min short of target); recovery
   83 % this morning. Adjusted /coach-today 2026-09-08.
 - Rest of day: recovery. 25–40 g protein at breakfast (done or now), water

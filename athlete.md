@@ -43,7 +43,7 @@ confidently, but only planned ones, absorbed by a following down week.
 - Lab zones: Z1 <133 · Z2 133–159 · Z3 160–177 · Z4 178–185 · Z5 ≥186.
 - **Current working values (2026-09-07, age 37, 6 yr drift + recent COROS
   laps: 4:30/km at 157–163 with room left; 5 km best 18:18 in 2025):**
-  HRmax ~188–190 · **LTHR ~170 (166–174)** · threshold pace ~4:00–4:10/km
+  HRmax ~188–190 · **LTHR ~170 (166–174)** · threshold pace ~3:50–4:00/km (user ruling 2026-09-08: ~3:55 target; 3:52–4:00 gave HR 163–169, max 171, on 2026-09-08)
   flat · easy ceiling 135 (matches VT1). Re-test or a 30-min TT would
   replace these estimates.
 
