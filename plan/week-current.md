@@ -6,7 +6,7 @@ planned_hours: 8.95  # core; + optional Monday mobility run ~0.8 h -> ~9.75 h to
 run_km: 46  # core 45.7 (Tue 10 + Sat 35.7) + optional Monday 8 -> 53.7
 descent_m: 1010  # Bukovački 980 + flat GPS noise; baseline 1,017 (W36 run actual) — no progression
 long_run_day: sat
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 # Week 2026-W37 — Divca sharpening, build week 3 → Bukovački maraton
 
@@ -102,6 +102,13 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
 - **Rest.** No run. The day was going to be strength; strength moved to
   Monday so that Saturday gets a full rest day on Friday.
 - Knee: report any reading. Cold reading is a stage-1 confirmation point.
+- **/coach-today 2026-09-09: rest confirmed, nothing recorded on COROS today.**
+  Sleep 7 h 52 min (score 72, bed 21:55 — target met), recovery 100 %.
+  Forecast revised upward: **35.4 °C max** (35 °C 15:00–18:00, 0 % rain,
+  21.5 °C at 06:00) — hottest day of the block; drink through the desk day,
+  no evening activity beyond stretching B. Knee cold reading still to be
+  reported (stage-1 confirmation). Tomorrow's ride: 29.1 °C max, 6 % rain
+  (down from 35 %) — 20.9 °C at 09:00, 26.7 °C at 18:00; either slot fine.
 - Calories: ~2200 kcal
 - Stretching: B (desk day). Movement breaks every ~60 min.
 
