@@ -3,10 +3,10 @@ week: 2026-W37
 dates: {start: 2026-09-07, end: 2026-09-13}
 meso_week: "3 of 3 (build) — last build before the Divca taper"
 planned_hours: 7.45  # core after Sat cut to 24 km (~3.25 h + 0.5 ride); Monday optional run done (0.85 h) -> ~8.3 h total
-run_km: 34  # core 34 (Tue 10 + Sat 24) + Monday optional 8.3 done -> ~42.3; Tue actual 11.5
+run_km: 34  # core 34 (Tue 10 + Sat 24) + optional runs done Mon 8.3 + Fri 8.2 -> ~52 projected (≤57.3 cap); Tue actual 11.5
 descent_m: 750  # Bukovački 24 km ~720 + flat GPS noise; baseline 1,017 (W36 run actual) — well under, no progression
 long_run_day: sat
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 # Week 2026-W37 — Divca sharpening, build week 3 → Bukovački maraton
 
@@ -137,8 +137,30 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
   profile once so you know where the long descents are — those are walking
   sections, decided now, not on the trail.
 - Bed by 22:00.
-- Calories: ~2200 kcal — carb emphasis (composition, not volume).
-- Stretching: B (desk day), done properly in the evening.
+- **Thursday actual (COROS): gravel ride 34.65 km / 1:17:55 moving (1:36 total)
+  / 26.7 km/h / HR 149 avg / 633 m gain / load 171, TE "threshold".** Heavier
+  than the "climb at tempo, keep something back" brief (load 171 vs ~120
+  expected) — noted, not a problem with a rest-ish Friday between; it does
+  raise the bar for Saturday discipline.
+- **DONE (COROS, 05:5x start, ~20 °C): optional easy run 8.20 km / 44:28 /
+  5:25 min/km / HR 131 avg / 9↑ 12↓ m / 478 kcal / load 65.** Planned rest,
+  user ran anyway; HR ≤135 and flat, so it counts as a shake-out — accepted,
+  logged, nothing else today. Best km 4:25 — no more of that before tomorrow.
+- **Sleep 6 h 19 min, score 46, 58 min awake (3 wakes), bed 22:36 —** worst
+  night of the week; recovery 83 %, full in ~19 h (i.e. by race start).
+  Tonight's sleep is the priority item: lights out by 21:45, no late
+  logistics — pack in the afternoon.
+- Forecast (fetched 2026-09-11): today 24.9 °C, rain 51–65 % from 18:00 —
+  stretching indoors. **Saturday: 22.8 °C max, 14 °C at 06:00, 0 % rain,
+  wind 17–20 km/h** — dry, cool start: thin long sleeve or arm warmers for
+  the start, shed on the first climb.
+- Saturday plan stands unchanged (HR cap 140, walk every descent, abort
+  rule, 6 items). Given yesterday's ride load and the short night: **take
+  the lift to the start**, don't ride; the warm-up is the first 10 min hiked.
+- Knee cold reading today → report; it is the pre-race baseline for log/itb.md.
+- /coach-today 2026-09-11.
+- Calories: ~2700 kcal (2235 + run 478) — carb emphasis (composition, not volume).
+- Stretching: B (desk day), done properly in the evening, indoors.
 
 ## Saturday — 2026-09-12 — BUKOVAČKI 24 km / ~720 m D+ (LONG RUN, HARD; changed from 35.7 km on 2026-09-09) — 23.3 °C max, 15.5 °C at 06:00, 24 % rain
 - **Purpose:** aerobic time on feet + full rehearsal of the Divca execution
