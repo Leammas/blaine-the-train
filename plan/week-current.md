@@ -157,7 +157,7 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
 - Saturday plan stands unchanged (HR cap 140, walk every descent, abort
   rule, 6 items). Given yesterday's ride load and the short night: **take
   the lift to the start**, don't ride; the warm-up is the first 10 min hiked.
-- Knee cold reading today → report; it is the pre-race baseline for log/itb.md.
+- **Knee (user, 2026-09-11): 0.7/10 cold** — pre-race baseline, seventh ≤1 reading in a row, not escalating (logged log/itb.md). Saturday: anything above this baseline on the trail is a walk-it-out signal; lateral tightness is the abort rule.
 - /coach-today 2026-09-11.
 - Calories: ~2700 kcal (2235 + run 478) — carb emphasis (composition, not volume).
 - Stretching: B (desk day), done properly in the evening, indoors.
