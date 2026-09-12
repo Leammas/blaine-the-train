@@ -4,9 +4,9 @@ dates: {start: 2026-09-07, end: 2026-09-13}
 meso_week: "3 of 3 (build) — last build before the Divca taper"
 planned_hours: 7.45  # core after Sat cut to 24 km (~3.25 h + 0.5 ride); Monday optional run done (0.85 h) -> ~8.3 h total
 run_km: 34  # core 34 (Tue 10 + Sat 24) + optional runs done Mon 8.3 + Fri 8.2 -> ~52 projected (≤57.3 cap); Tue actual 11.5
-descent_m: 750  # Bukovački 24 km ~720 + flat GPS noise; baseline 1,017 (W36 run actual) — well under, no progression
+descent_m: 750  # ACTUAL Sat 845 m run (not walked) -> week ~875; planned was Bukovački 24 km ~720 + flat GPS noise; baseline 1,017 (W36 run actual) — well under, no progression
 long_run_day: sat
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 # Week 2026-W37 — Divca sharpening, build week 3 → Bukovački maraton
 
@@ -196,18 +196,50 @@ Thu 26.8 °C, 35 % rain. Fri 20.0 °C, 43 % rain. **Sat 23.3 °C max, 15.5 °C a
 - Stretching: A, short and gentle, post-race; no deep ITB stretching into
   soreness.
 
-## Sunday — 2026-09-13 (23.9 °C)
-- **Cold knee reading on waking → log/itb.md.**
-- **Rest from running.**
-- **Strength B — stage 1**, ~40 min, home, evening. 10 reps/set at the new
-  loads, jumps unchanged. **If the knee is ≥2/10 or the legs are not
-  recovered, run B at stage-0 loads and volume** — the session still counts
-  for the 2×/week; the load progression waits a week.
-- 25–40 g protein within the hour.
+- **DONE (COROS, ~06:16 start, ~16 °C): 23.57 km / 1:57:40 / 5:00 min/km
+  (adj. 4:17) / HR 168 avg, max 179 / 860↑ 845↓ m / cadence 170 / 1351 kcal /
+  load 514 / TE aerobic 4.8, anaerobic 4.6 ("Threshold").** It was raced.
+  Against the brief: HR cap 140 → **168 avg, every km ≥151, first climb
+  176**, i.e. two hours in the threshold band. Walk-every-descent → **every
+  descent run**: km 11–12 at 3:44 / 3:41 with 84 + 111 m loss (cadence 184,
+  peak 227 spm), km 16–19 at 3:54–4:28 with 285 m loss, km 23 at 3:41 with
+  96 m loss. Descent dose **845 m = +33 % on the 635 m tolerated (0.7/10) and
+  +49 % on the 569 m that flared 3/10 — and this time at speed.** Expected
+  3:00–3:20 → 1:57:40. Load 514 vs ~250 assumed; **recovery 12 %, COROS
+  estimates 84 h to full (≈ Tuesday evening).** Sleep before: 6h01 / score 71
+  + 56 min nap.
+- **What it means, plainly:** as a fitness read it is excellent (23.6 km /
+  860 m at 168 bpm in under two hours, 16 days before a 28 km / 1453 m race).
+  As an ITB dose it is the largest and fastest descent load of the year,
+  taken with the 7-day window still open. The next 72 h of cold readings
+  decide the whole taper, not the finish time.
+- **Rest of today:** 25–40 g protein + carbs within the hour, real meal after,
+  ~3900 kcal stands. Legs up. 15–20 min flat walk this evening as the first
+  knee check — note any lateral tightness on stairs going DOWN. No deep ITB
+  stretching; Stretching A short and gentle only. Ice 10 min if anything is
+  tight. **Knee reading tonight and cold tomorrow morning → log/itb.md.**
+- Escalation rule for the taper: any reading ≥2/10 in the next 7 days → taper
+  week 1 is run-free until two consecutive ≤1 readings; descent progression
+  is off for the taper regardless.
+
+## Sunday — 2026-09-13 (23.9 °C) — revised 2026-09-12 after the race
+- **Cold knee reading on waking → log/itb.md.** Second reading after a 15-min
+  walk (does it drop the way it did on 09-09?).
+- **Full rest.** No run, no ride. **Strength B is OFF today** (changed: load
+  514 / recovery 12 % — stage-1 or stage-0 hip loading 24 h after a raced
+  845 m descent adds nothing and blurs the knee signal). It moves into taper
+  week 1; /coach-plan-week places it (Mon or Tue evening, knee ≤1/10 only).
+  W37 closes with 1× strength — accepted, race week.
+- 30–45 min easy flat walk, poles optional, as active recovery. Sleep in.
+- Protein at every meal; carb emphasis continues (glycogen was emptied).
 - **/coach-plan-week in the evening:** W37 review + author the taper meso
-  (09-14 .. 09-28) with the written Divca race-execution rule.
-- Calories: ~2400 kcal (2235 + strength ~200)
-- Stretching: A.
+  (09-14 .. 09-28) with the written Divca race-execution rule. Inputs it
+  must weigh: today's two knee readings, recovery %, and the fact that the
+  rehearsal was not rehearsed — the Divca execution rule (HR-capped climbs,
+  walked descents) has now to be tested somewhere else or written as a
+  race-day-only discipline.
+- Calories: ~2400 kcal (2235 + walk ~150)
+- Stretching: A, gentle.
 
 ---
 **Week totals (planned, revised 2026-09-09):** core **~7.45 h** (Mon 0.7 ·
