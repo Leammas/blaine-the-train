@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-07
+updated: 2026-09-13
 # Body metrics, age, sex and location live in `athlete.private.md` (gitignored).
 ---
 # Athlete Profile
@@ -17,7 +17,7 @@ confidently, but only planned ones, absorbed by a following down week.
 
 1. **Primary: 100-mile ultra trail, 9,000 m+ gain, summer 2027.** Race not yet
    chosen — plan targets the profile, not a date. Firm up once picked.
-2. **Divca Trail, 2026-09-28, 28 km / 1,453 m+.** Goal: not worse than the 2025
+2. **Divca Trail, Saturday 2026-09-26, 28 km / 1,453 m+.** Goal: not worse than the 2025
    result (in COROS history — find it around late Sept 2025).
 3. **Fruška Gora Ultra Trail, 2027-04-28, 130 km / 6,000 m+.**
 

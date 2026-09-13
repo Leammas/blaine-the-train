@@ -1,10 +1,10 @@
 ---
 horizon: 2026-08 .. 2027-08
 anchors:
-  - {date: 2026-09-28, event: "Divca 28k/1453m", goal: "not worse than 2025"}
+  - {date: 2026-09-26, event: "Divca 28k/1453m (Saturday; corrected 2026-09-13 from 09-28)", goal: "not worse than 2025"}
   - {date: 2027-04-28, event: "Fruska Gora 130k/6000m"}
   - {date: 2027-07-15, event: "100mi/9000m+ (placeholder date, race TBD)"}
-updated: 2026-08-22
+updated: 2026-09-13
 ---
 # Macrocycle: August 2026 → Summer 2027
 
@@ -15,7 +15,7 @@ Thursday social ride is a fixed skeleton slot ONLY through Phase 2 (until
 ~mid-October) — it pauses for the cold/dark season and rejoins the skeleton
 whenever the athlete says it's back on.
 
-## Phase 1 — Divca sharpening (2026-08-24 .. 2026-09-28, 5 wks)
+## Phase 1 — Divca sharpening (2026-08-24 .. 2026-09-26, 5 wks)
 Intent: race-specific sharpening on a fit, load-optimized base. Hold ~40–48
 run-km weeks (hours cap binds — race specificity beats volume); quality = fortress stair repeats + one Fruška Gora trail long
 run/week (access ride budgeted); controlled downhill doses for the ITB.
@@ -23,10 +23,10 @@ Weeks 1–3 build, then a 2-week pre-race block whose final 10 days are the
 true taper. Strength stays stage 0 (no new stimulus
 before a goal race). Weekly hours envelope: 8.5–9.
 Key sessions: FG trail long run (Sat), stair-repeat quality (Tue), Thu ride.
-The taper meso (2026-09-14 .. 09-27) carries the written Divca race-
+The taper meso (2026-09-14 .. 09-26, race Sat 09-26) carries the written Divca race-
 execution rule per coach-rules periodization.
 
-## Phase 2 — Recovery + transition (2026-09-29 .. 2026-10-11, 2 wks)
+## Phase 2 — Recovery + transition (2026-09-27 .. 2026-10-11, ~2 wks)
 Easy running, bike, strength continuity. Hours 5–7. Last Thursday rides of
 the season.
 
